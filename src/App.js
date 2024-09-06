@@ -50,7 +50,7 @@ function App() {
       <h1>Вход</h1>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
-          <label>Email:</label>
+          <label>Электронная почта:</label>
           <input
             type="email"
             value={email}
