@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/auth-form/static/css/main.0b490377.css",
+    "main.js": "/auth-form/static/js/main.2cddc5ff.js",
+    "index.html": "/auth-form/index.html",
+    "main.0b490377.css.map": "/auth-form/static/css/main.0b490377.css.map",
+    "main.2cddc5ff.js.map": "/auth-form/static/js/main.2cddc5ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b490377.css",
+    "static/js/main.2cddc5ff.js"
+  ]
+}
